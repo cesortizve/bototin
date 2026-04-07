@@ -22,3 +22,4 @@ switch($message){
         sendMessage($chatId,$response);
         break;
 }
+?>
